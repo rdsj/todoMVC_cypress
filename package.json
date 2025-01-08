@@ -1,0 +1,7 @@
+{
+  "name": "TodoMVC",
+  "packageManager": "yarn@4.4.1",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  }
+}
